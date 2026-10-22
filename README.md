@@ -30,6 +30,21 @@ AI Apocaloptimist. Experimenting and learning with AI daily. Learning to code on
 | Introduction to Claude Cowork | Aug 2026 | [Verify](https://academy.claude.com/verify/38aebe008545d954ab4f0e5001858a18) |
 | Claude 101 | Aug 2026 | [Verify](https://academy.claude.com/verify/8aff684809ffa3a65be8df8f25279e9c) |
 
+### OpenAI Academy
+
+| Credential | Issued | Credential |
+|---|---|---|
+| Apply AI at Work Pathway Completion | Sep 2026 | [Verify](https://oaiacademy.credential.net/d71a61e8-da95-49e4-b89b-51a14409f74b) |
+| Applied AI Foundations | Sep 2026 | [Verify](https://oaiacademy.credential.net/01ca289b-b150-4d0a-8953-3debc7aa70d5) |
+| Agents and Workflows | Sep 2026 | [Verify](https://oaiacademy.credential.net/6c517bfc-e78c-4df9-97c3-7c8978eddaba) |
+| AI Foundations | Sep 2026 | [Verify](https://oaiacademy.credential.net/0d11fc8d-e58b-4ccd-8472-04a5e6072dff) |
+
+### Institute for Advertising Ethics
+
+| Credential | Issued | Credential |
+|---|---|---|
+| AI Integrity Shield | Apr 2025 | [Verify](https://www.credential.net/f46e59e3-67c4-4863-9793-cee31f06bfa9) |
+
 ### SmarterX
 
 | Course | Issued | Credential |
