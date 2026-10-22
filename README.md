@@ -18,8 +18,17 @@ AI Apocaloptimist. Experimenting and learning with AI daily. Learning to code on
 | Claude Code in action | Sep 2026 | [Verify](https://academy.claude.com/verify/81a4afad616a291e81b2c5a92d9821d9) |
 | Claude Code 101 | Sep 2026 | [Verify](https://academy.claude.com/verify/f9aa2466038790bfa2650c97c836cd65) |
 | Claude Platform 101 | Aug 2026 | [Verify](https://academy.claude.com/verify/0be52c2b6589337251cc64765ba49c6a) |
+| AI Fluency for educators | Aug 2026 | [Verify](https://academy.claude.com/verify/d41167227f44932585ac3ccd3e2762d9) |
+| AI Fluency for nonprofits | Aug 2026 | [Verify](https://academy.claude.com/verify/a05852e63f6a29767958e734fbab8546) |
+| AI Fluency for pK–12 educators | Aug 2026 | [Verify](https://academy.claude.com/verify/f3d897dce8958138ab944e242578f383) |
 | Teaching AI Fluency | Aug 2026 | [Verify](https://academy.claude.com/verify/8ee94bcf0c6cdf5bb32a5bd09756889b) |
-| AI Capabilities and Limitations | Aug 2026 | [Verify](https://academy.claude.com/verify/4b1e42efdc320d6534c4a42f3c7031b1) |
+| AI capabilities and limitations | Aug 2026 | [Verify](https://academy.claude.com/verify/4b1e42efdc320d6534c4a42f3c7031b1) |
+| AI Fluency: Framework and foundations | Aug 2026 | [Verify](https://academy.claude.com/verify/040446ec1a364f6c8d5ee66ee6174aba) |
+| AI Fluency for students | Aug 2026 | [Verify](https://academy.claude.com/verify/8c3633ff750216804c731d784071fb89) |
+| AI Fluency for small businesses | Aug 2026 | [Verify](https://academy.claude.com/verify/5cad266b52f61fe59bcc05477ffa6a08) |
+| AI Fluency for builders | Aug 2026 | [Verify](https://academy.claude.com/verify/1aeeeda71cebf1d403e1493b11584ade) |
+| Introduction to Claude Cowork | Aug 2026 | [Verify](https://academy.claude.com/verify/38aebe008545d954ab4f0e5001858a18) |
+| Claude 101 | Aug 2026 | [Verify](https://academy.claude.com/verify/8aff684809ffa3a65be8df8f25279e9c) |
 
 ### SmarterX
 
