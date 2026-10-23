@@ -6,6 +6,8 @@ AI Apocaloptimist. Experimenting and learning with AI daily. Learning to code on
 
 ### Boot.dev
 
+[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6a4af01b-6d33-4dea-84da-e65e4a8d6d4f.jpeg)](https://www.boot.dev/certificates/6a4af01b-6d33-4dea-84da-e65e4a8d6d4f)
+
 [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ddaf7238-270b-4f9b-98f8-06a31d8cb055.jpeg)](https://www.boot.dev/certificates/ddaf7238-270b-4f9b-98f8-06a31d8cb055)
 
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6126a2e0-2612-49db-9440-f16635822402.jpeg?v=1792758250)](https://www.boot.dev/certificates/6126a2e0-2612-49db-9440-f16635822402)
