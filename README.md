@@ -6,6 +6,8 @@ AI Apocaloptimist. Experimenting and learning with AI daily. Learning to code on
 
 ### Boot.dev
 
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6126a2e0-2612-49db-9440-f16635822402.jpeg?v=1792758250)](https://www.boot.dev/certificates/6126a2e0-2612-49db-9440-f16635822402)
+
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6a3d349f-e60a-45b5-83b4-8483e4dadf73.jpeg?v=1792696465)](https://www.boot.dev/certificates/6a3d349f-e60a-45b5-83b4-8483e4dadf73)
 
 ### Claude Academy (Anthropic)
